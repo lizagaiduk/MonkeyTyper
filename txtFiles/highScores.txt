@@ -1,0 +1,7 @@
+gdk 21
+misha 18
+vae 17
+liza 16
+mar 15
+
+
